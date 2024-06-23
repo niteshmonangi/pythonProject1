@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c121b8ad-6bb2-4b91-9e1f-10b7c8bfb150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task 5.py" afterDir="false" />
+    <list default="true" id="c121b8ad-6bb2-4b91-9e1f-10b7c8bfb150" name="Changes" comment="task 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +34,10 @@
     &quot;accountId&quot;: &quot;95ad46dd-48f0-4747-95be-4f23db4f67e5&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/task 7.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/task 8.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -48,14 +49,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lab 2.executor": "Run",
-    "Python.lab 5.executor": "Run",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lab 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task 8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task 9.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sindh\PycharmProjects\pythonProject1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="task 8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task 8" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,6 +112,23 @@
       <option name="presentableId" value="Default" />
       <updated>1718077972022</updated>
     </task>
+    <task id="LOCAL-00001" summary="task 5">
+      <option name="closed" value="true" />
+      <created>1719071329372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719071329372</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task 5">
+      <option name="closed" value="true" />
+      <created>1719150109464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719150109464</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 5" />
   </component>
 </project>
